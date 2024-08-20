@@ -1,4 +1,6 @@
 # Electric-Vehicle-Analysis
+![EV Product Analysis](https://github.com/user-attachments/assets/c5266ba6-fd1c-42f5-9b21-d13a16b7640c)
+
 TO view: https://public.tableau.com/app/profile/kidus.abebe.mekonen/viz/ElectricVehicleDataAnalysis_17240895891830/EVProductAnalysis
 # KPI’S Requirement
 ## 1.Total Vehicles:
